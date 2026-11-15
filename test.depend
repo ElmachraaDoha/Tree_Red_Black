@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1794704409 source:c:\users\doha\downloads\redblacktreeproject\benchmark.cpp
+	<algorithm>
+	<chrono>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<random>
+	<string>
+	<vector>
+	"Benchmark.h"
+	"RedBlackTree.h"
+	"MapContainer.h"
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\benchmark.h
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\redblacktree.h
+	<string>
+	<vector>
+	"Node.h"
+	"Statistics.h"
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\node.h
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\statistics.h
+	<iostream>
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\mapcontainer.h
+	<map>
+	<vector>
+
+1794704409 source:c:\users\doha\downloads\redblacktreeproject\main.cpp
+	<iostream>
+	"Tests.h"
+	"Benchmark.h"
+
+1794704409 c:\users\doha\downloads\redblacktreeproject\tests.h
+
+1794704409 source:c:\users\doha\downloads\redblacktreeproject\mapcontainer.cpp
+	"MapContainer.h"
+
+1794704409 source:c:\users\doha\downloads\redblacktreeproject\redblacktree.cpp
+	"RedBlackTree.h"
+	<iostream>
+
+1794704409 source:c:\users\doha\downloads\redblacktreeproject\tests.cpp
+	<iostream>
+	<random>
+	<string>
+	<vector>
+	"Tests.h"
+	"RedBlackTree.h"
+	"MapContainer.h"
+
